@@ -72,8 +72,8 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to='/' onClick={toggleHome}> Portfolio</SocialLogo>
-                        <WebsiteRights>Kevin Ho© {new Date().getFullYear()} All Rights Reserved</WebsiteRights>
+                        <SocialLogo to='/' onClick={toggleHome}> money</SocialLogo>
+                        <WebsiteRights>© Kevin Ho {new Date().getFullYear()} All Rights Reserved</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href='/' target='_blank' aria-label="Facebook">
                                 <FaFacebook /></SocialIconLink>

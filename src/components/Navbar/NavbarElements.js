@@ -40,6 +40,7 @@ export const NavLogo = styled(LinkR)`
     margin-left: 24px;
     font-weight: bold;
     text-decoration: none;
+    letter-spacing: 4px;
 `
 
 export const MobileIcon = styled.div `
