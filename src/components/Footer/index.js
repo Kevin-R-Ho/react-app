@@ -43,31 +43,31 @@ const Footer = () => {
                                 <FooterLink to='/signin'>Terms of Service</FooterLink> 
                         </FooterLinkItems>
                         <FooterLinkItems>
-                            <FooterLinkTitle>About us</FooterLinkTitle>
-                                <FooterLink to='/signin'>How it works</FooterLink>
-                                <FooterLink to='/signin'>Testimonials</FooterLink>
-                                <FooterLink to='/signin'>Careers</FooterLink>
-                                <FooterLink to='/signin'>Investors</FooterLink>
-                                <FooterLink to='/signin'>Terms of Service</FooterLink> 
+                            <FooterLinkTitle>Contact Us</FooterLinkTitle>
+                                <FooterLink to='/signin'>Contact</FooterLink>
+                                <FooterLink to='/signin'>Support</FooterLink>
+                                <FooterLink to='/signin'>Business Number</FooterLink>
+                                <FooterLink to='/signin'>Sponsorships</FooterLink>
+                                <FooterLink to='/signin'>Legalities</FooterLink>
                         </FooterLinkItems>
                     </FooterLinkWrapper>
                     <FooterLinkWrapper>    
                         <FooterLinkItems>
-                            <FooterLinkTitle>About us</FooterLinkTitle>
-                                <FooterLink to='/signin'>How it works</FooterLink>
-                                <FooterLink to='/signin'>Testimonials</FooterLink>
-                                <FooterLink to='/signin'>Careers</FooterLink>
-                                <FooterLink to='/signin'>Investors</FooterLink>
-                                <FooterLink to='/signin'>Terms of Service</FooterLink> 
+                            <FooterLinkTitle>Member Features</FooterLinkTitle>
+                                <FooterLink to='/signin'>Account Access</FooterLink>
+                                <FooterLink to='/signin'>Credit Card Rewards</FooterLink>
+                                <FooterLink to='/signin'>Notifications</FooterLink>
+                                <FooterLink to='/signin'>Account Agreements</FooterLink>
+                                <FooterLink to='/signin'>Mobile Banking</FooterLink> 
                         </FooterLinkItems>
-                        <FooterLinkItems>
-                            <FooterLinkTitle>About us</FooterLinkTitle>
-                                <FooterLink to='/signin'>How it works</FooterLink>
-                                <FooterLink to='/signin'>Testimonials</FooterLink>
-                                <FooterLink to='/signin'>Careers</FooterLink>
-                                <FooterLink to='/signin'>Investors</FooterLink>
-                                <FooterLink to='/signin'>Terms of Service</FooterLink> 
-                        </FooterLinkItems>
+                        {/* <FooterLinkItems>
+                            <FooterLinkTitle></FooterLinkTitle>
+                                <FooterLink to='/signin'></FooterLink>
+                                <FooterLink to='/signin'></FooterLink>
+                                <FooterLink to='/signin'></FooterLink>
+                                <FooterLink to='/signin'></FooterLink>
+                                <FooterLink to='/signin'></FooterLink> 
+                        </FooterLinkItems> */}
                     </FooterLinkWrapper>
                 </FooterLinksContainer>
                 <SocialMedia>
