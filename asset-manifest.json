@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.a89c0c10.chunk.css",
+    "main.js": "/react-app/static/js/main.3dda8f07.chunk.js",
+    "main.js.map": "/react-app/static/js/main.3dda8f07.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.fef943fb.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.fef943fb.js.map",
+    "static/js/2.39acb1c8.chunk.js": "/react-app/static/js/2.39acb1c8.chunk.js",
+    "static/js/2.39acb1c8.chunk.js.map": "/react-app/static/js/2.39acb1c8.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "static/css/main.a89c0c10.chunk.css.map": "/react-app/static/css/main.a89c0c10.chunk.css.map",
+    "static/js/2.39acb1c8.chunk.js.LICENSE.txt": "/react-app/static/js/2.39acb1c8.chunk.js.LICENSE.txt",
+    "static/media/icon-1.f2d4f4ef.png": "/react-app/static/media/icon-1.f2d4f4ef.png",
+    "static/media/icon-2.a0909993.png": "/react-app/static/media/icon-2.a0909993.png",
+    "static/media/icon-3.60f9fe19.png": "/react-app/static/media/icon-3.60f9fe19.png",
+    "static/media/svg-1.svg": "/react-app/static/media/svg-1.6d15ef81.svg",
+    "static/media/svg-2.svg": "/react-app/static/media/svg-2.2dc8fbd1.svg",
+    "static/media/svg-3.svg": "/react-app/static/media/svg-3.9da12bcf.svg",
+    "static/media/video.7d1ea6a9.mp4": "/react-app/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef943fb.js",
+    "static/js/2.39acb1c8.chunk.js",
+    "static/css/main.a89c0c10.chunk.css",
+    "static/js/main.3dda8f07.chunk.js"
+  ]
+}
