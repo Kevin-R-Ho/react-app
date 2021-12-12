@@ -1,11 +1,11 @@
 import React, {useState} from 'react'
-import HeroSection from '../components/HeroSection'
-import InfoSection from '../components/InfoSection'
-import { homeObjOne, homeObjTwo, homeObjThree } from '../components/InfoSection/Data'
-import Navbar from '../components/Navbar'
-import Services from '../components/Services'
-import Sidebar from '../components/Sidebar'
-import Footer from '../components/Footer'
+import HeroSection from '../components/HeroSection/index.js'
+import InfoSection from '../components/InfoSection/index.js'
+import { homeObjOne, homeObjTwo, homeObjThree } from '../components/InfoSection/Data.js'
+import Navbar from '../components/Navbar/index.js'
+import Services from '../components/Services/index.js'
+import Sidebar from '../components/Sidebar/index.js'
+import Footer from '../components/Footer/index.js'
 
 
 const Home = () => {
